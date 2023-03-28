@@ -1,0 +1,23 @@
+insert into client(name, surname) values ('Cristiano','Ronaldo');
+insert into client(name, surname) values ('Francesco','Totti');
+insert into client(name, surname) values ('Paolo','Maldini');
+insert into client(name, surname) values ('Gabriel','Batistuta');
+insert into client(name, surname) values ('Antonio','Cassano');
+insert into client(name, surname) values ('David','Beckham');
+insert into client(name, surname) values ('Paul','Scholes');
+insert into client(name, surname) values ('Roy','Keane');
+insert into client(name, surname) values ('Karim','Benzema');
+insert into client(name, surname) values ('Michael','Owen');
+insert into client(name, surname) values ('Robert','Lewandowski');
+insert into client(name, surname) values ('Aldair','Cafu');
+insert into client(name, surname) values ('Iker','Casillas');
+insert into client(name, surname) values ('Gianfranco','Zola');
+insert into client(name, surname) values ('Claude','Makelele');
+insert into client(name, surname) values ('Aitor','Karanka');
+insert into client(name, surname) values ('Andy','Cole');
+insert into client(name, surname) values ('Dwight','Yorke');
+insert into client(name, surname) values ('Steve','McManaman');
+
+insert into car (client_id, brand, registration_number) values (1, 'Ferrari', 'NE1234A');
+insert into car (client_id, brand, registration_number) values (1, 'Porshe', 'GD1234A');
+insert into car (client_id, brand, registration_number) values (2, 'Nissan', 'NO1234A');
